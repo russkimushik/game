@@ -1,1 +1,3 @@
-# game
+# Game
+
+### The Game
